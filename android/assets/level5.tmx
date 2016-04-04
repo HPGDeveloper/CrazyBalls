@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="left-up" width="16" height="9" tilewidth="64" tileheight="64" nextobjectid="1">
+ <tileset firstgid="1" name="wall" tilewidth="64" tileheight="64" tilecount="1" columns="1">
+  <image source="wall.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="2" name="activatorWall" tilewidth="64" tileheight="64" tilecount="1" columns="1">
+  <image source="activatorWall.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="3" name="finishWall" tilewidth="64" tileheight="64" tilecount="1" columns="1">
+  <image source="finishWall.png" width="64" height="64"/>
+ </tileset>
+ <tileset firstgid="4" name="resetableWall" tilewidth="64" tileheight="64" tilecount="1" columns="1">
+  <image source="resetableWall.png" width="64" height="64"/>
+ </tileset>
+ <layer name="Capa de Patrones 1" width="16" height="9">
+  <data encoding="base64" compression="zlib">
+   eJxjYGBgYIJiEGBkQABkcWQ5dHFq68eH0QExagipxeV+Zigm1f2k6KeG+wmpwedfbPoZcKjDph8AiAQAcw==
+  </data>
+ </layer>
+</map>
